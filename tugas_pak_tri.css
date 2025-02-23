@@ -1,0 +1,54 @@
+body{
+    font-family: 'Times New Roman', Times, serif;
+}
+
+a{
+    font-size: large;
+    text-decoration: none !important;
+    font-weight: bold !important;
+}
+
+footer{
+    text-align: center !important;
+}
+
+.overview{
+    text-align: center !important;
+}
+
+.identitas{
+    text-align: center !important;
+}
+
+.jabatan{
+    font-weight: bold;
+    font-size: 15pt;
+
+}
+
+#skill{
+    text-align: center;
+}
+
+form label{
+    display: block;
+    font-weight: bold !important;
+}
+
+form input, form textarea{
+    border-radius: 5px;
+    border: 1px solid #000 !important;
+    padding: 11px;
+    margin: 0px 5px 0px 10px !important;
+    
+}
+
+button{
+    font-size: 20px !important;
+}
+
+img{
+    border-radius: 100% !important;
+    height: auto !important;
+}
+
